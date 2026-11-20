@@ -1,0 +1,5 @@
+[versions]
+jabel = "1.0.1-2"
+
+[libraries]
+jabel = { group = "com.pkware.jabel", name = "jabel-javac-plugin", version.ref = "jabel" }
